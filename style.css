@@ -6,3 +6,30 @@ iframe{ position:absolute; top:0; left:0; width:100%; height:100%; }
 
 iframe {display:inline-block;}
 span {display:block;}
+
+.footer {
+
+    position: absolute;
+
+    left: 0;
+
+    bottom: 0;
+
+    width: 100%;
+
+	padding: 15px 0;
+
+	text-align: center;
+
+	color: white;
+}
+
+.ytlink {
+        position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100%;
+    height: 100%;
+}
